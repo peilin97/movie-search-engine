@@ -1,4 +1,4 @@
-# movie_search_engine
+# movie search engine
 ### A client-server movie search engine built in C<br /><br/>
 Descriptions:<br />
 [Assignment 9: Indexing Files to Query](https://course.ccs.neu.edu/cs5007su19-seattle/assignments/a9.html)<br />
